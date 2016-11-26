@@ -7,3 +7,4 @@ For running it please put below arguments in your jar call :
     val timeGenerationPattern= args(3).toInt
     val timeVar =args(4).toInt
 
+example "2012-01-01 00:00:00" localhost:9092 hack 1000 500
